@@ -1,0 +1,18 @@
+﻿@charset "utf-8";
+h2{
+	font-size: 1.5em;
+}
+#wrapper{
+  margin:auto;
+  width: 80%;
+}
+nav{
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+nav ul li{
+  padding-left:14px;
+  padding-right:14px;
+  padding-top:10px;
+  padding-bottom:10px;
+}

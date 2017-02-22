@@ -1,0 +1,25 @@
+﻿@charset "utf-8";
+table {
+	overflow-x: auto;
+    display: block;
+}
+#wrapper {
+	width: 100%;
+	margin: 0 auto;
+	display:flex;
+	flex-wrap:wrap;
+}
+h2{
+	font-size: 1.5em;
+	padding-left:1.5em;
+	padding-right:1.5em;
+}
+h3{
+	font-size: 1.2em;
+	padding-left:1.5em;
+	padding-right:1.5em;
+	text-align: left;
+	padding-bottom: 15px;
+}
+
+/*----RESPONSIVE HEADER---*/
